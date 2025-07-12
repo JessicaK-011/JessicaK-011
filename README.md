@@ -35,7 +35,7 @@
 
 - 📧 Email: [jessicakamal054@gmail.com](mailto:jessicakamal054@gmail.com)  
 - 🌐 LinkedIn: [jessica-kamal](https://www.linkedin.com/in/jessica-kamal-8388aa25b/)  
-- 💼 Portfolio: [Mockverse Demo](https://mockverse1-oitjeyuug-jessicas-projects-240f1fc2.vercel.app/)
+- 💼 Portfolio: [Live](https://portfolio-steel-sigma-52.vercel.app)
 
 ---
 
