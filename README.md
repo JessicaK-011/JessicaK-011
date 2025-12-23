@@ -1,22 +1,28 @@
 # 👋 Hey there, I'm Jessica Kamal!
 
-🎓 Currently pursuing an Integrated B.Tech + M.Tech in Information Technology from IIIT Gwalior (2022–2027). I'm a passionate problem solver, full-stack developer, and NLP enthusiast always on the lookout for impactful challenges.
+🎓 I’m currently pursuing an **Integrated B.Tech + M.Tech in Information Technology** from **IIIT Gwalior (2022–2027)**.  
+I’m a passionate **full-stack developer**, **problem solver**, and **NLP enthusiast** who enjoys building impactful, real-world applications and continuously learning new technologies.
 
 ---
 
-## 🚀 What I'm Working On
+## 🔧 What I’m Working On
 
-- 🧠 **Mockverse** — An AI-powered mock interview platform with real-time speech-to-text, Clerk auth, Gemini AI integration, and Vercel deployment.
-- 📚 **Learnify** — A full-featured learning management system (LMS) built using MERN stack + Stripe + Cloudinary, supporting 1000+ users.
-- 🗞️ **FairText** — A gender-aware tweet summarization tool that combines LexRank, LSA, and BERT Topic modeling to reduce bias in NLP outputs.
+**Maatri**  
+A bilingual AI-powered QA chatbot built using **React** and **FastAPI**, leveraging a **Retrieval-Augmented Generation (RAG)** pipeline with dense retrieval, reranking, and instruction-tuned language models to deliver accurate, domain-specific responses.
+
+**KeyMate**  
+A secure **end-to-end encrypted password manager** developed with **React, Node.js, Express, MongoDB, JWT, and RSA encryption**, focusing on client-side security, authentication, and safe credential recovery.
+
+**Mockverse**  
+An AI-driven mock interview platform built with **Next.js**, **Gemini AI**, and **Clerk authentication**, featuring real-time speech-to-text, role-specific question generation, performance analytics, and deployment on **Vercel**.
 
 ---
 
 ## 📌 Coding Profiles
 
-- [LeetCode](https://leetcode.com/u/jess_11K)
-- [Codeforces](https://codeforces.com/profile/jess_1124)
-- [CodeChef](https://www.codechef.com/users/jessica_054)
+- **LeetCode**: https://leetcode.com/u/jess_11K  
+- **Codeforces**: https://codeforces.com/profile/jess_1124  
+- **CodeChef**: https://www.codechef.com/users/jessica_054  
 
 ---
 
@@ -25,17 +31,17 @@
 **Languages**: Python, Java, SQL, C/C++  
 **Frontend**: React.js, Next.js, Tailwind CSS, Bootstrap  
 **Backend**: Node.js, Express.js, MongoDB, REST APIs  
-**Tools**: Git, GitHub, Docker, Stripe, Cloudinary, Clerk, Figma, Canva  
-**NLP**: HuggingFace 🤗, BERT, spaCy, VADER, NLTK  
-**Deployment**: Vercel, Netlify
+**AI / NLP**: HuggingFace 🤗, Transformers, BERT, spaCy, NLTK, VADER  
+**Tools & Platforms**: Git, GitHub, Docker, Stripe, Cloudinary, Clerk, Figma, Canva  
+**Deployment**: Vercel, Netlify  
 
 ---
 
-## 💬 Let's Connect!
+## 💬 Let’s Connect
 
-- 📧 Email: [jessicakamal054@gmail.com](mailto:jessicakamal054@gmail.com)  
-- 🌐 LinkedIn: [jessica-kamal](https://www.linkedin.com/in/jessica-kamal-8388aa25b/)  
-- 💼 Portfolio: [Live](https://portfolio-steel-sigma-52.vercel.app)
+-  Email: jessicakamal054@gmail.com  
+-  LinkedIn: https://www.linkedin.com/in/jessica-kamal-8388aa25b/  
+-  Portfolio: https://portfolio-steel-sigma-52.vercel.app  
 
 ---
 
@@ -46,4 +52,5 @@
 
 ---
 
-> “Technology is best when it brings people together — and I'm here to build what brings value.” ✨
+> *“Technology is best when it brings people together — and I strive to build solutions that create real value.”* ✨
+
