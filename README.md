@@ -1,11 +1,11 @@
-# 👋 Hey there, I'm Jessica Kamal!
+# Hey there, I'm Jessica Kamal!
 
-🎓 I’m currently pursuing an **Integrated B.Tech + M.Tech in Information Technology** from **IIIT Gwalior (2022–2027)**.  
+I’m currently pursuing an **Integrated B.Tech + M.Tech in Information Technology** from **IIIT Gwalior (2022–2027)**.  
 I’m a passionate **full-stack developer**, **problem solver**, and **NLP enthusiast** who enjoys building impactful, real-world applications and continuously learning new technologies.
 
 ---
 
-## 🔧 What I’m Working On
+##  What I’m Working On
 
 **Maatri**  
 A bilingual AI-powered QA chatbot built using **React** and **FastAPI**, leveraging a **Retrieval-Augmented Generation (RAG)** pipeline with dense retrieval, reranking, and instruction-tuned language models to deliver accurate, domain-specific responses.
@@ -26,7 +26,7 @@ An AI-driven mock interview platform built with **Next.js**, **Gemini AI**, and 
 
 ---
 
-## 🛠 Tech Toolbox
+## Tech Toolbox
 
 **Languages**: Python, Java, SQL, C/C++  
 **Frontend**: React.js, Next.js, Tailwind CSS, Bootstrap  
@@ -37,7 +37,7 @@ An AI-driven mock interview platform built with **Next.js**, **Gemini AI**, and 
 
 ---
 
-## 💬 Let’s Connect
+## Let’s Connect
 
 -  Email: jessicakamal054@gmail.com  
 -  LinkedIn: https://www.linkedin.com/in/jessica-kamal-8388aa25b/  
