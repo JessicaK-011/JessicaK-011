@@ -5,13 +5,13 @@ I’m a passionate **full-stack developer**, **problem solver**, and **NLP enthu
 
 ---
 
-##  What I’m Working On
+## What I’m Working On
 
 **Maatri**  
 A bilingual AI-powered QA chatbot built using **React** and **FastAPI**, leveraging a **Retrieval-Augmented Generation (RAG)** pipeline with dense retrieval, reranking, and instruction-tuned language models to deliver accurate, domain-specific responses.
 
-**KeyMate**  
-A secure **end-to-end encrypted password manager** developed with **React, Node.js, Express, MongoDB, JWT, and RSA encryption**, focusing on client-side security, authentication, and safe credential recovery.
+**Hackex**  
+A full-stack coding platform built using **MongoDB, Express.js, React.js, Tailwind CSS, and Docker**, featuring a collaborative code editor, syntax highlighting, auto-completion, leaderboards, and a secure Docker-based remote code execution engine supporting multiple languages.
 
 **Mockverse**  
 An AI-driven mock interview platform built with **Next.js**, **Gemini AI**, and **Clerk authentication**, featuring real-time speech-to-text, role-specific question generation, performance analytics, and deployment on **Vercel**.
@@ -47,7 +47,7 @@ An AI-driven mock interview platform built with **Next.js**, **Gemini AI**, and 
 
 ## 📊 GitHub Stats
 
-![Jessica's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JessicaK-011&show_icons=true&theme=radical)  
+![Jessica's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JessicaK-011&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaK-011&layout=compact&theme=tokyonight)
 
 ---
