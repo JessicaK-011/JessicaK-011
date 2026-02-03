@@ -41,7 +41,7 @@ An AI-driven mock interview platform built with **Next.js**, **Gemini AI**, and 
 
 -  Email: jessicakamal054@gmail.com  
 -  LinkedIn: https://www.linkedin.com/in/jessica-kamal-8388aa25b/  
--  Portfolio: https://portfolio-steel-sigma-52.vercel.app  
+-  Portfolio: https://portfolio-jessica-kamal.vercel.app/ 
 
 ---
 
