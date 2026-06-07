@@ -94,13 +94,3 @@ LinkedIn: https://www.linkedin.com/in/jessica-kamal-8388aa25b/
 Portfolio: https://portfolio-jessica-kamal.vercel.app/
 
 ---
-
-## GitHub Stats
-
-![Jessica's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JessicaK-011&show_icons=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaK-011&layout=compact)
-
----
-
-*Building useful systems, learning continuously, and turning ideas into practical solutions.*
